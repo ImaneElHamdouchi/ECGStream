@@ -1,0 +1,14 @@
+# Binaries
+ecgstream
+tools/generate_samples
+
+# Generated reports
+out/
+
+# Generated samples
+samples/*.csv
+
+# Editor files
+*.swp
+*.swo
+.DS_Store
