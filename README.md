@@ -1,5 +1,7 @@
 # ECGStream
 
+[![CI](https://github.com/ImaneElHamdouchi/ECGStream/actions/workflows/ci.yml/badge.svg)](https://github.com/ImaneElHamdouchi/ECGStream/actions/workflows/ci.yml)
+
 ECGStream is an educational C project for analyzing synthetic ECG signals from CSV files.
 
 It demonstrates low-level programming concepts such as file parsing, dynamic memory management, circular buffers, moving-average filtering, R-peak detection, RR interval analysis, and JSON report generation.
